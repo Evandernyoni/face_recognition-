@@ -46,13 +46,13 @@ Running the main.py outputs an image and &#39;probabilities.csv&#39;  file.
 
 Install required packages by running the following command in your terminal
 
-- pip install -r  requirements.txt
+-     pip install -r  requirements.txt
 
 **Training**
 
 For simplicity we call the encoding process &#39;training&#39;. To train the model, run the following command:
 
-- python encode\_faces.py  --dataset dataset  –encodings  encodings.pickle
+-     python encode\_faces.py  --dataset dataset  –encodings  encodings.pickle
 
 To extract image framses from videos run the following command:
 
