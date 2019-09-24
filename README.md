@@ -62,4 +62,4 @@ To extract image framses from videos run the following command:
 
 To make predictions run the following command:
 
-- python main.py --encodings encodings.pickle --image examples/example\_01.png
+-     python main.py --encodings encodings.pickle --image examples/example\_01.png
